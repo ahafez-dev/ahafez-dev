@@ -33,7 +33,7 @@
 ---
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahafez-dev&show_icons=true&theme=visual_studio_code&border_radius=10" alt="Stats" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical)
 
