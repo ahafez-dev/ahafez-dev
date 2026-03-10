@@ -36,7 +36,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 ---
 <p align="center">
