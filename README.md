@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="![Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical)" alt="Abdelrahman's GitHub Stats" />
-  <img src="![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical)" alt="Abdelrahman's GitHub Stats" />
+  <img src="![My Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev)" alt="Abdelrahman's GitHub Stats" />
+
 
   <br/>
   <img src="![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical)" alt="Top Languages" />
