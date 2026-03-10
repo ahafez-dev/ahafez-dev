@@ -35,11 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahafez-dev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdelrahman's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 ---
 <p align="center">
