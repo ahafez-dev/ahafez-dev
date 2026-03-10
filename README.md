@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="![My Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev)" alt="Abdelrahman's GitHub Stats" />
+  <img src="![Stats](https://github-readme-stats.vercel.app/api?username=ahafez-dev&theme=radical)" alt="Abdelrahman's GitHub Stats" />
 
 
   <br/>
