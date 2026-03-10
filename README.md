@@ -31,13 +31,12 @@
 | **Bankist** | Advanced DOM, Intersection Observer, Glassmorphism UI | [🌐 Live](https://ahafez-bankist.netlify.app/) | [📁 Repo](https://github.com/ahafez-dev/bankist-project) |
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abdelrahman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahafez-dev&show_icons=true&theme=radical&hide_border=true" alt="Abdelrahman's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=ahafez-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 ---
 <p align="center">
